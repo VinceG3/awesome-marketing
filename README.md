@@ -50,6 +50,7 @@
 #### Sales
 - [Close.io](http://close.io/)
 - [Salesloft](https://salesloft.com/)
+- [SaaS Sales Guide](https://www.entrepidpartners.com/how-to-sell-guide) - Guide for SaaS service sales
 
 #### Growth Engines
 - [Click Funnels](https://www.clickfunnels.com/)
